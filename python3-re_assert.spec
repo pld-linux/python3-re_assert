@@ -2,7 +2,7 @@ Summary:	Show where your regex match assertion failed
 Summary(pl.UTF-8):	Pokazywanie, gdzie dopasowanie wyrażenia regularnego się nie powiodło
 Name:		python3-re_assert
 Version:	1.1.0
-Release:	3
+Release:	4
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/re-assert/
